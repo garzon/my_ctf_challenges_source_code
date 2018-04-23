@@ -1,0 +1,14 @@
+##############
+#  CAUTIONS  #
+##############
+Your flag has been encrypted!
+To unlock your flag you must send some bitcoins to this address: 1DTj262z6UzhhwLFzL3C5fpTEMVQFPJ6iV
+After that you can obtain a password and instructions to unlock your flag.
+Please input your password here.
+password(1)> Correct!
+My friends, do you know bitcoin?
+bitcoin address(2)> Correct!
+If you know what exactly '1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa' is, I believe you must know the correct input corresponding to this.
+secret(3)> Correct!
+Congratulations! All stages are clear.
+The final flag is DDCTF{d99c08005c6c1db95ed21a0bad647956daac3bbdaf610bc636b216b3434db6f2} !
