@@ -13,9 +13,9 @@
 #### DDCTF2019
 - DDCTF 2019 Web: `homebrew event loop`
 - DDCTF 2019 MISC: `voice lock` (a.k.a. `声纹锁`)
-- DDCTF 2019 Reverse: `Obfuscating Macros` (coming soon)
+- DDCTF 2019 Reverse: `Obfuscating Macros`
 
 #### *CTF2019
 - *ctf(starctf) 2019 MISC: `homebrewEvtLoop--` and `homebrewEvtLoop#` (coming soon)
-- *ctf(starctf) 2019 Reverse: `Obfuscating Macros II` (coming soon)
+- *ctf(starctf) 2019 Reverse: `Obfuscating Macros II`
 
