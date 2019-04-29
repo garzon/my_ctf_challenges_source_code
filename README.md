@@ -16,6 +16,6 @@
 - DDCTF 2019 Reverse: `Obfuscating Macros`
 
 #### *CTF2019
-- *ctf(starctf) 2019 MISC: `homebrewEvtLoop--` and `homebrewEvtLoop#` (coming soon)
+- *ctf(starctf) 2019 MISC: `homebrewEvtLoop--` and `homebrewEvtLoop#`
 - *ctf(starctf) 2019 Reverse: `Obfuscating Macros II`
 
